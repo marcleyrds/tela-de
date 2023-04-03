@@ -6,7 +6,7 @@
     font-family: sans-serif;
 }
 body{ 
-    background-color: black;
+    background-color: rgb(88, 83, 83);
 }
 
 .social_links{
@@ -44,6 +44,6 @@ body{
 .social_links i{
     position: relative;
     color:#000;
-    right: 30px;
-
+    right: 20px;
+    
 }
